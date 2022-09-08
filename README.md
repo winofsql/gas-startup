@@ -9,5 +9,5 @@
     ![image](https://user-images.githubusercontent.com/1501327/189239031-57731d88-744e-4d36-9d40-f2e675e335ad.png)
   - ## [Class Ui](https://developers.google.com/apps-script/reference/base/ui)
     ![image](https://user-images.githubusercontent.com/1501327/189239087-5c5ac73e-7408-4e7d-89a6-05f4f34c8e33.png)
-    ![image](https://user-images.githubusercontent.com/1501327/189238674-0e81c90a-a6aa-47f6-b643-221d3aee73f6.png)
+    ![image](https://user-images.githubusercontent.com/1501327/189239151-3a73769d-96a3-484b-99a4-ab5a527ee4db.png)
     

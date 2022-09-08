@@ -6,3 +6,4 @@
   - ## [Class SpreadsheetApp](https://developers.google.com/apps-script/reference/spreadsheet/spreadsheet-app)
   - ## [Class Browser](https://developers.google.com/apps-script/reference/base/browser)
     ![image](https://user-images.githubusercontent.com/1501327/189237713-9ce7cc93-2eb6-4744-8bcd-9d9b8a769a90.png)
+    ![image](https://user-images.githubusercontent.com/1501327/189238230-5a3bcbc0-73b3-4e66-b0a1-1915d04bf71b.png)

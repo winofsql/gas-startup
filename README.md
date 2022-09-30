@@ -8,3 +8,16 @@
     ![image](https://user-images.githubusercontent.com/1501327/189239087-5c5ac73e-7408-4e7d-89a6-05f4f34c8e33.png)
     ![image](https://user-images.githubusercontent.com/1501327/189239151-3a73769d-96a3-484b-99a4-ab5a527ee4db.png)
     
+```javascript
+function myFunction() {
+
+  var ss = SpreadsheetApp.getActiveSpreadsheet();
+  var sheet = ss.getSheets()[0];
+  Logger.log(sheet.getName());
+  // Logger.log(ss.getUrl());
+
+  SpreadsheetApp.getUi().alert('Hello, world');
+
+}
+
+```

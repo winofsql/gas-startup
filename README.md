@@ -19,5 +19,15 @@ function myFunction() {
   SpreadsheetApp.getUi().alert('Hello, world');
 
 }
+```
 
+```javascript
+function test() {
+
+  var spreadsheet = SpreadsheetApp.getActive();
+  spreadsheet.getRange('A1').activate();
+  spreadsheet.getCurrentCell().setValue('1');
+  spreadsheet.getActiveRange().autoFill(spreadsheet.getRange('A1:A16'), SpreadsheetApp.AutoFillSeries.ALTERNATE_SERIES);
+
+}
 ```
